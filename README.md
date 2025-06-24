@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Flutter Mobile Developer
+# 👋 Hi, I'm Eaindra — Flutter Mobile Developer
 
 Welcome to my GitHub! I'm a passionate **Flutter developer** focused on building beautiful, high-performance mobile applications for Android and iOS. I specialize in crafting clean UIs, smooth animations, and scalable architectures using modern development practices.
 
