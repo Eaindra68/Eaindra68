@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name] — Flutter Mobile Developer
 
-<!--
-**Eaindra68/Eaindra68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Flutter developer** focused on building beautiful, high-performance mobile applications for Android and iOS. I specialize in crafting clean UIs, smooth animations, and scalable architectures using modern development practices.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Mobile Developer specializing in **Flutter & Dart**
+- 🧠 Always learning and experimenting with new technologies
+- 📱 Focused on **UI/UX**, **state management**, and **performance optimization**
+- 🛠️ Familiar with REST APIs, Firebase, SQLite, and Clean Architecture
+- 🌍 Open to freelance or remote opportunities
+
+## 🧰 Tech Stack
+
+- **Languages:** Dart, JavaScript, Kotlin (basic), Swift (basic)
+- **Frameworks:** Flutter, Provider, Riverpod, GetX, BLoC
+- **Backend Services:** Firebase, Supabase, Node.js,Laravel
+- **Tools:** Git, Android Studio, VS Code, Postman, Figma
+
+## 📫 Let's Connect
+
+- 📩 Email: eaindra68.hh@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/feed/
+
+---
+
+🛠️ *This profile is actively maintained — check back for updates or new apps!*
+
